@@ -33,3 +33,6 @@ https://fonts.google.com/specimen/Cabin
 The ‘Reports List’ will be scrollable through swipe in mobile and tablet views. 
 The 'Sidebar' will be scrollable only on mobile view.
 # Ideate-Dashboard
+The end result:
+![Screenshot 2022-04-20 at 20-16-53 Ideate Dashboard](https://user-images.githubusercontent.com/82536545/164297061-a3a71ee1-963e-4fe8-886b-2b7e7a7afdc4.png)
+
